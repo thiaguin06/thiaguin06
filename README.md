@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-Eu sou o Thiago alcantara, sou um Progrmador Front End, atualamente aprendendo mais sobre Javascript e React e fazendo o curso de Programador Fullstack Pro, pelo Devclub.Estou cursando támbem analise e desenvolvimento de sistema. <br>
+ 👨‍💻 Sobre mim
+
+Olá! Me chamo **Thiago Alcântara** e sou um **Desenvolvedor Front-End** apaixonado por tecnologia e inovação.  
+Atualmente estou me aprofundando em **JavaScript**, **TypeScript** e **React**, buscando sempre evoluir minhas habilidades técnicas.
+
+💻 Estou cursando **Análise e Desenvolvimento de Sistemas** e também participo do curso **Programador Fullstack Pro** do [DevClub](https://www.devclub.com.br/), onde tenho aprendido muito sobre desenvolvimento web moderno.
+
+🚀 Busco oportunidades para aplicar meus conhecimentos em projetos reais e crescer como desenvolvedor na área de tecnologia.
+ <br>
  <a href="https://www.instagram.com/_tiagoxh/">Instagram</a> <br>
     <a href="https://www.linkedin.com/in/thiago-alc%C3%A2ntara-51267b302/">Linkedin</a>
 
