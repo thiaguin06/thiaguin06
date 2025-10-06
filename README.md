@@ -3,9 +3,7 @@
  👨‍💻 Sobre mim
 
 Olá! Me chamo **Thiago Alcântara** e sou um **Desenvolvedor Front-End** apaixonado por tecnologia e inovação.  
-Atualmente estou me aprofundando em **JavaScript**, **TypeScript** e **React**, buscando sempre evoluir minhas habilidades técnicas.
-
-💻 Estou cursando **Análise e Desenvolvimento de Sistemas** e também participo do curso **Programador Fullstack Pro** do Devclub, onde tenho aprendido muito sobre desenvolvimento web moderno.
+Atualmente estou me aprofundando em **JavaScript**, **NodeJs** e **React**, buscando sempre evoluir minhas habilidades técnicas.
 
 🚀 Busco oportunidades para aplicar meus conhecimentos em projetos reais e crescer como desenvolvedor na área de tecnologia.
  <br>
