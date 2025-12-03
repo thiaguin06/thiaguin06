@@ -10,7 +10,6 @@ Atualmente estou me aprofundando em **JavaScript**, **NodeJs** e **React**, busc
  <a href="https://www.instagram.com/_alcantarathiago06/">Instagram</a> <br>
     <a href="https://www.linkedin.com/in/thiago-alc%C3%A2ntara-51267b302/">Linkedin</a>
 
-[![thiago stats](https://github-readme-stats.vercel.app/api?username=thiaguin06)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguin06)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
